@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "apiservices",
+      "type": "com.thomasjayconsulting.sbconfigtext.controller.config.APIServices",
+      "sourceType": "com.thomasjayconsulting.sbconfigtext.controller.config.APIServices"
+    }
+  ],
+  "properties": [
+    {
+      "name": "apiservices.employee-service-api-key",
+      "type": "java.lang.String",
+      "sourceType": "com.thomasjayconsulting.sbconfigtext.controller.config.APIServices"
+    },
+    {
+      "name": "apiservices.employee-service-url",
+      "type": "java.lang.String",
+      "sourceType": "com.thomasjayconsulting.sbconfigtext.controller.config.APIServices"
+    },
+    {
+      "name": "apiservices.payment-service-api-key",
+      "type": "java.lang.String",
+      "sourceType": "com.thomasjayconsulting.sbconfigtext.controller.config.APIServices"
+    },
+    {
+      "name": "apiservices.payment-service-url",
+      "type": "java.lang.String",
+      "sourceType": "com.thomasjayconsulting.sbconfigtext.controller.config.APIServices"
+    }
+  ],
+  "hints": []
+}
